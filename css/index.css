@@ -4357,9 +4357,9 @@ body[data-type='about'] #web_bg {
 }
 .author-content-item.personalities .image {
   position: absolute;
-  right: 30px;
-  top: 10px;
-  width: 220px;
+  right: -150px;
+  top: 12px;
+  width: 700px;
   -webkit-transition: -webkit-transform 2s cubic-bezier(0.13, 0.45, 0.21, 1.02);
   -moz-transition: -moz-transform 2s cubic-bezier(0.13, 0.45, 0.21, 1.02);
   -o-transition: -o-transform 2s cubic-bezier(0.13, 0.45, 0.21, 1.02);
